@@ -2,9 +2,9 @@
 ---
 
 <p align="left"> 
-  🦺 • Trabalhando na <strong>Br Packs</strong>.<br>
-  💻 • Aprendendo um pouco sobre tudo...<br>
-  🔑 • Sei um pouco de Zenscript e Javascript.
+  - 🦺 • Trabalhando na <a href="https://www.brpacks.com">BrPacks</a>.<br>
+  - 💻 • Aprendendo um pouco sobre tudo...<br>
+  - 🔑 • Sei um pouco de Zenscript e Javascript.
 </p>
 
 ---
