@@ -1,12 +1,6 @@
-### 👋 | Apenas um cara qualquer!
+### 👋 | Apenas um cara qualquer que deu sorte na vida...
 ---
 [![wakatime](https://wakatime.com/badge/user/b63b8d81-47de-48a0-bc20-14c5864fdb07.svg)](https://wakatime.com/@b63b8d81-47de-48a0-bc20-14c5864fdb07) 
-
-<p align="left"> 
-  - 🦺 • Trabalhando na <a href="https://www.brpacks.com">BrPacks</a>.<br>
-  - 💻 • Aprendendo um pouco sobre tudo...<br>
-  - 🔑 • Sei um pouco de Zenscript e Javascript e Nodejs.
-</p>
 
 ---
 
